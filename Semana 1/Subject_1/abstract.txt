@@ -1,0 +1,73 @@
+Definiciones :
+
+Sentidos 
+Son los medios por los que podemos interactuar con el entorno que nos rodea.
+Nos permite obtener información del mundo y decidir en función de ella las acciones que debemos tomar para movernos, comunicarnos o interaccionar
+con los objetos.
+
+
+Visión por computador:
+Es un proceso de análisis de imágenes a través de computadores para obtener
+ una descripción de los objetos que son captados por la cámara.
+
+
+<<<<<Ventajas>>>>>
+
+Aplicaciónes industriales:
+	Control de calidad.
+
+Militares
+	Armas inteligentes
+
+Biomedicina
+	Análisis de imagenes tomadas por satélistes.
+
+Agricultura
+
+Robotica
+	Navegación de robots.
+Control de tráfico
+
+Identificación de personas
+
+Sociedad de la imagen
+	Gráficos realistas.
+	Imágenes en todas partes. 
+
+Tecnologias implicadas
+> Tecnología electrónica
+	Buen Hardware.
+> Ingeniería de software
+	Biblioteca OpenCV
+
+> Inteligencia artificial.
+	Algoritmos de machine learning.
+
+Procesamiento de imágenes(PI) y visión por computadores (VC)
+
+La frontera entre procesamiento de imágenes (PI) y visión por computador (VC) es, a veces, un poco difusa. La principal característica es que la salida del PI es una imagen y la de la VC conocimiento.
+
+
+<<<< Problemas >>>>
+
+Los humanos desconocemos los pasos que realizamos para ver el entorno que nos rodea.
+
+
+[1] Grados de libertad :
+	Rotación, translación, escala.
+	Movimiento del objeto y/ o de la camara.
+	Iluminicación.
+	Coexistencia con otros objetos: oclusiones,
+
+[2] Informacón limitada:
+	Caracteristicas, qué se debe buscar y dónde.
+
+[3] Restricción temporal.
+	Responder a tiempo.
+
+[4] Exactitud.
+
+	Falsos positivos cuando no exista el objeto buscado e indiquemos que si está.
+	Falsos negativos se presenta cuando exista el objeto a analizar y no lo reconozcamos
+
+

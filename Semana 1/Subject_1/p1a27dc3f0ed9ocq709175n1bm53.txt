@@ -1,0 +1,22 @@
+¡Hola!
+Bienvenidos a la 1ª semana del curso "Introducción a la visión por computador: desarrollo de aplicaciones con OpenCV".
+Durante estos siete días vamos a explicar, en mayor detalle, lo que es esta tecnología
+y los principales campos en los que se usa.
+Vamos a ver los dos elementos hardware más importantes:
+las ópticas y las cámaras.
+Con las primeras, conseguimos que los rayos reflejados por los objetos,
+converjan sobre el elemento sensor de las cámaras.
+Además de su uso, debemos conocer sus principales parámetros y cómo podemos modelarlas.
+Respecto a las cámaras,
+éstas pueden ser de distinto tipo y, dependiendo de la aplicación concreta que queramos desarrollar,
+tendremos que elegir entre uno u otros.
+Por último, se verán los programas informáticos que se van a utilizar a lo largo de todo el curso:
+la biblioteca OpenCV
+y el entorno de programación Microsoft Visual Studio
+y cómo se integran.
+El alumno va a realizar la escritura del primer programa,
+cargar una imagen de disco para verla por pantalla,
+que será el programa base sobre el que vamos a desarrollar el resto de aplicaciones.
+En este módulo hay material audiovisual, material complementario y una autoevaluación.
+Esperamos que os abra el apetito para la 2ª semana,
+donde desarrollaremos más programas y aplicaciones.
