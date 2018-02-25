@@ -1,0 +1,31 @@
+		<<Imágenes digitales>>
+Las imagenes digitales son representadas mediante un matriz bidimensional.(x,y)
+ 
+Factores 
+	Muestre espacial.
+	Nivel de gris
+
+Pixel=(0-255) donde 0 es negro y 255 blanco
+
+
+Muestreo espacial.
+
+	Resolución viene dada por el elemento más pequeño que vamos a analizar
+	Capacidad de Memoria 
+
+
+
+	<<Histograma y tablas de consulta>>.
+
+Histograma : Gráfico de la representación de distribuciones de frecuencias, en el que se emplean rectángulos dentro de unas coordenadas.
+
+Tablas de consulta: Es una tabla que contiene valores a modificar en cada uno 
+de los pixeles de una imagen,contiene la lista de los pixeles(de 0-255) para ir
+remplazando los valores en una imagen.
+
+	0	NuevoValor 
+	1	NuevoValor  
+	2
+	3
+	4
+	...
