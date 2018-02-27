@@ -1,0 +1,43 @@
+		Espacios de color RGB y HSI.
+Brillo : Se trata de la claridad.
+Tono :   Es la sensación que indica si un área parece simlar al Rojo, al Amarillo, 
+	 al azul, etc. o a una proporción de ellos.
+ 
+Saturación :Es la relación entre el color y el brillo depende de la distancia
+	    entre un color y la escala de grises.
+
+
+Espacio de color : es un método por el que se puede espesificar, crear o 
+		   visualizar cualquier color.
+
+
+RGB.
+
+x= r(luminancia) + g +b.
+
+HSI.
+Componentes favorables al ojo humano.
+
+H : tinte
+S : Saturación
+I : Intesidad
+
+
+		Espacios de color Lab e YCrCb
+Los distintos espacios de color de la CIE derivan del sistema de color 
+estándar XYZ.
+
+
+Lab 
+L : Luminosidad
+A : Es la relación entre el rojo y azul.
+B : Es la relación entre el amarillo y el azul
+
+
+Espacio YCbCr
+
+Permite codificar información RGB
+Y: Luminancia
+Cb y Cr : Son las componentes de crominancia ,diferencia de azul y de rojo respectivamente.
+
+
