@@ -18,7 +18,7 @@ from matplotlib import pyplot as plt
 
 
 
-file="ivvi_684x684_gray.jpg"
+file="ivvi_684x684.jpg"
 img=cv2.imread(file,1)
 
 
