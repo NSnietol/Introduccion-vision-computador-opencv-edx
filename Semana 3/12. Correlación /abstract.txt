@@ -1,0 +1,17 @@
+Correlación(Operador Matematico) : La diferencia es para que se utiliza.
+				   El valor maximo de la operación se presenta cuando la funcion H(x) coincide totalmente con la funcion F(x), o sea en el centro.
+				   se usa cuando queremos encontrar una función dentro de otra.
+
+No es aplicable en la prática ( Porque es demasiado sensible a los niveles de gris).
+
+Correlación normalizada.
+
+Representa el tanto porciento en que se parece muestra objeto al modelo.
+
+Limitaciones
+
+No es invariantes con respecto al tamaño y a la rotación, o sea que si el objeto no está en la misma proporción no es encontrado.
+
+Una primera solución es la utilización de varias escalas( Mucho coste computacional)
+
+
