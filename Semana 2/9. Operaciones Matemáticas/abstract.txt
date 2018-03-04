@@ -1,0 +1,2 @@
+Solo se pueden representar imagenes con valores que sean positivos.
+y a las imagenes se les puede aplicar cualquier operación aritmetica.

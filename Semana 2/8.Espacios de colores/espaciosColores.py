@@ -23,11 +23,11 @@ else:
 b,g,r = cv2.split(img)
 #print(b,g,r)
 
-cv2.imshow('RGB',b)
+cv2.imshow('RGB',img)
 #Convertimos  la imagen del espacio RGB a HSV
 imgHSV=cv2.cvtColor(img,cv2.COLOR_BGR2HSV)
 
-cv2.imshow('HSV',imgHSV[:,:,1])
+cv2.imshow('HSV',imgHSV)
 
 
 #Muestra

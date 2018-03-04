@@ -1,0 +1,22 @@
+Filtros : Son algoritmos para obtener una imagen de otra, con la finalidad de favorecer alguna 
+	caracteristica de la imagen original o eliminar datos errones.
+
+	Dominio del espacio
+	*Convolución
+	*Correlación
+	Dominio de la frecuencia : Fourier.
+
+
+Convolución :  una convolución es un operador matemático que transforma dos funciones f y g en una tercera función.
+Propiedades
+	conmutativa
+	Asociativa
+	Distributiva.
+
+
+Convolución en imágenes digitales.
+
+Ventana deslizante
+Filtro paso bajo o paso alto
+Kernel( Nucleo de la convolución)
+
