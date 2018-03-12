@@ -1,0 +1,7 @@
+
+            Transformaciones geométicas
+
+Transformacion, translacion y el escalado.
+
+Permiten reconcer objetos
+Eliminar distorciones
