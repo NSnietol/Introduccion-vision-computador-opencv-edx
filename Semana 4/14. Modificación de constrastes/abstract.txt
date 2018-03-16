@@ -1,0 +1,35 @@
+	Amplitud de la escala.
+Es algoritmo se encarga de forzar el valor minimo sea cero(claro) y máximo sea 255 (oscuro), mediante una nueva curva de ganancia.
+Realiza una segmentación indicando que por ej. el rango [0,80] es 0 y de [81,255] son 255 (claro)
+
+
+
+Se varia la relación entre los pixeles más claros y más oscuros.
+
+[*] Imagen ideal
+La ilumninación es uniforme( Todos los pixeles reciben el mismo nivel de luz)
+La ganancia entre luz de entrada y la imagen es lineal
+
+	Variaciones locales del contraste.
+
+Modificación del contraste.
+
+P=ma
+
+[+] m valor de gris de la imagen original
+[+] P nuevo valor de gris
+[+] a potencia a la que se eleva.
+
+
+Métodos
+ 
+1.Cuadrada	}Se favorecen  los pixeles claros 
+2.Cúbica	}
+
+3.raiz cuadrada	} Favorecen el contraste de los pixeles más oscuros
+4.raiz cúbida
+5.logarítmica.
+
+
+Ecuacialización del histograma.
+Objetivo: el histograma debe ajustarse lo máximo a una forma prefijada
