@@ -1,0 +1,36 @@
+	Reducción de ruido mediante filtros lineales.
+
+Efecto
+Ruido : Se presenta como pixeles aislados que toman valores distintos al de sus vecinos.
+	El ruido es aleatorio y no afecta a todos los pixeles de la misma manera.
+
+	Si se elimina el ruido también se elimina algunos contornos
+
+
+Debido a:
+*Al sensor de la cámara.
+*Al medio de transmisión de la señal
+*Alimentación de la cámara( Cable)
+
+
+Tipos.
+
+Gaussiano ( Más comunes)
+Impulsional "Conocido como sal y pimienta" (Más comunes)
+Interferencia( Señales periodicas que interfieren)
+Ruido Multiplicativo ( No hay iluminación uniforme).
+
+
+
+Filtros lineales.
+	Convolución, utiliza la media  ( Gaussiano ( Puede usar tambíen medianta)  e impulsional)
+
+
+Filtros No lineales.
+
+	Utiliza la mediana( Solo aplicarlo con ruido impulsional)
+	
+
+
+
+
