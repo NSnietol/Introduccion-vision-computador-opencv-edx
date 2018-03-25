@@ -1,0 +1,40 @@
+	Detección de Bordes.
+
+Utilidad de la detección :
+	Facilita la extracción de caracteristicas 
+	Detección de objetos y forma.
+	Análisis de grado de rugosidad (textura)
+
+Ventajas
+	Inmunes a cambios en la iluminación.
+
+
+Métodos.
+
+[1] Gradiente 
+	Permite determinar dirección y magnitud.
+	
+	Gradiente de Roberts : (2,2)Tiene 2 filtros.
+	Gradiente de Prewitt : (3,3) Utiliza la media
+	G. de Sobel (El más utilizado) 
+	G. Isotrópico ( El Mejor pero estaba utiliza más recursos)
+
+[2] La placiana ( No tiene umbral, busca donde la 2da derivada cambia de signo)
+	No se utiliza por la sensibilidad del ruido
+
+
+
+Detector de Canny 
+
+[] Optimización de estas condiciones
+	Error : Se deben detectar todos y solo los bordes
+	
+	Localización. La distancia entre el pixel señalado como borde y el borde
+	real debe de ser tan pequeña como se pueda.
+	
+	Respuesta: No debe identificar varios pixeles como bordes cuando sólo 
+		   exista uno.
+
+[] Operador óptimo es la derividad de una gausiana.
+
+ 
