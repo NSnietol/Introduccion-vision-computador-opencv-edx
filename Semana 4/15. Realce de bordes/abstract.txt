@@ -1,0 +1,15 @@
+Realce de bordes.
+
+Resaltar aquellos pixeles que presentan un valor de gris distinto del de sus vecinos.
+
+Métodos.
+
+[1] Realce de Bordes = Ganancia Imagen - Bajas Frecuencias ( Mediante el filtro de la media)
+
+
+
+
+[2] Realce de Bordes = Imagen + Altas Frecuencias ( Operador Laplaciana)
+La placiana se puede observar como la derivada en todas las direcciones.
+Se supone que es operador derivada debido a que a ser aplicado en una zona donde
+todos los valores de gris iguales el resultado es CERO.
