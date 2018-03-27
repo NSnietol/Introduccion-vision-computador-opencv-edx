@@ -1,0 +1,23 @@
+	Movimiento con cámara estática.
+
+Se supone que los pixeles de un objeto se van a mover a la misma velocidad. 
+
+[]Restricciones 
+	1. No existen cambios de ilumninaciń entre una imagen y otra.
+	2. Todos los objetos son rigidos.
+	3. Respecto al movimiento se supondrá que la cámara está fija y que son
+	   los objetos los que se mueven.
+
+
+[]Métodos:
+	
+ 	(*)Diferencias de imágenes
+	1.Menos preciso
+	2.Más simple
+	3.Más rápido
+	4.Gran rango de aplicaciones
+	(*) Imagen campo de velocidades
+	(*) Determinar el movimiento.
+	(*) Conectividad
+
+
