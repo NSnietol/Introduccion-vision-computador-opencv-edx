@@ -16,6 +16,7 @@ Se supone que los pixeles de un objeto se van a mover a la misma velocidad.
 	2.Más simple
 	3.Más rápido
 	4.Gran rango de aplicaciones
+
 	(*) Imagen campo de velocidades
 	(*) Determinar el movimiento.
 	(*) Conectividad
