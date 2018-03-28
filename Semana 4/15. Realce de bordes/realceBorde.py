@@ -32,4 +32,7 @@ if(kernel.shape[0]==kernel.shape[1]):
 dst = cv2.filter2D(img,-1,kernel)
 cv2.imshow('Original',img)
 cv2.imshow('Laplacina',dst)
+
+
+
 cv2.waitKey(0)

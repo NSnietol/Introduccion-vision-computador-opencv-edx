@@ -23,7 +23,7 @@ Ruido Multiplicativo ( No hay iluminación uniforme).
 
 
 Filtros lineales.
-	Convolución, utiliza la media  ( Gaussiano ( Puede usar tambíen medianta)  e impulsional)
+	Convolución, utiliza la media  ( Gaussiano (o mediana)  e impulsional)
 
 
 Filtros No lineales.

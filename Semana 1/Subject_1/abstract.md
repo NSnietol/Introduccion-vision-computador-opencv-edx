@@ -40,7 +40,7 @@ Los humanos desconocemos los pasos que realizamos para ver el entorno que nos ro
 >Rotación, translación, escala.
 >	Movimiento del objeto y/ o de la camara.
 >	Iluminicación.
->	Coexistencia con otros objetos: oclusiones,
+>	Coexistencia con otros objetos: oclusiones.
 
 * Informacón limitada: Se desconocen las caracteristicas qué se deben buscar y/o  dónde hacerlo.
 
@@ -48,6 +48,6 @@ Los humanos desconocemos los pasos que realizamos para ver el entorno que nos ro
 
 * Exactitud.
 >Falsos positivos cuando no exista el objeto buscado e indiquemos que si está.
->Falsos negativos se presenta cuando exista el objeto a analizar y no lo reconozcamos
+>Falsos negativos se presenta cuando exista el objeto a analizar y no lo reconozcamos.
 
 

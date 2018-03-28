@@ -21,4 +21,24 @@ Se supone que los pixeles de un objeto se van a mover a la misma velocidad.
 	(*) Determinar el movimiento.
 	(*) Conectividad
 
+	(*)Flujo Óptico [No requiere una cámara estática]
+	Proporciona un mapa de velocidades ( Dirección y magnitud)
+	Se busca en el entorno a un punto cuál es la zona más parecida en la segunda imagen
+
+	Tiene el problema de la apertura( No observar el objeto en su totalidad)
+
+	Lo que no permite calcular la velocidad real del objeto
+
+
+	Método de lukas-Kanade
+
+	Se usa una busqueda en pirámide
+	Solo puntos con mucha textura.
+	Asunciones:
+		Constancia en el brillo ( Un pixel de un objeto no cambia de apariencia de una imagen a otra)
+		Persistencia Temporal (Los movimientos de los objetos cambian lentamente)
+		Coherencia Espacial ( Los puntos que pertenecen a mismo objeto tiene el mismo movimiento)
+
+
+
 
